@@ -1,0 +1,18 @@
+[submodule "Go-microservices-task6"]
+	path = Go-microservices-task6
+	url = https://github.com/JABAN111/Go-microservices-task6.git
+[submodule "Go-microservices-task5"]
+	path = Go-microservices-task5
+	url = https://github.com/JABAN111/Go-microservices-task5.git
+[submodule "Go-microservices-task4"]
+	path = Go-microservices-task4
+	url = https://github.com/JABAN111/Go-microservices-task4.git
+[submodule "Go-microservices-task3"]
+	path = Go-microservices-task3
+	url = https://github.com/JABAN111/Go-microservices-task3.git
+[submodule "Go-microservices-task2"]
+	path = Go-microservices-task2
+	url = https://github.com/JABAN111/Go-microservices-task2.git
+[submodule "Go-microservices-task1"]
+	path = Go-microservices-task1
+	url = https://github.com/JABAN111/Go-microservices-task1.git
