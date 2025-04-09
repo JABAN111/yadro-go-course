@@ -19,3 +19,6 @@
 [submodule "Go-microservices-task7"]
 	path = Go-microservices-task7
 	url = https://github.com/JABAN111/Go-microservices-task7.git
+[submodule "Go-microservices-task8"]
+	path = Go-microservices-task8
+	url = https://github.com/JABAN111/Go-microservices-task8.git
